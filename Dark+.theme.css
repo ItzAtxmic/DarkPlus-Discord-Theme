@@ -17,12 +17,12 @@
   --darkplus-bg2: #302f2f;
   --darkplus-sec: #a89305;
   --darkplus-links: #a89305;
-  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/468141324906921984/852117175212179466/discord-avatar-512-YV0PV.png);
+  --darkplus-home-icon: url(https://media.discordapp.net/attachments/1054555417344213103/1069419862021132369/yellow-discord-icon-15.jpg?width=478&height=480);
  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
   --watermark-filter-hue-rotate: 210deg;
-  --watermark-filter-brightness: 35%;
+  --watermark-filter-brightness: 0%;
   --watermark-filter-contrast: 200%;
   --darkplus-emoji-picker-color: 210deg;
 }
